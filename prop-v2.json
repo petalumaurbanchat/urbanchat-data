@@ -1,0 +1,27 @@
+[
+  {
+    "id": "copeland",
+    "name": "Copeland Landing",
+    "address": "315 E D St.",
+    "property_size": "4.48",
+    "type": "Brownfield",
+    "owner": "SMART",
+    "lat": 38.236808992763955,
+    "lng": -122.63572662745206,
+    "property_tax": "No info",
+    "tax_to_city": "No info"
+  },
+
+  {
+    "id": "haystack",
+    "name": "Haystack",
+    "address": "215 Weller St.",
+    "property_size": "3.92",
+    "type": "Brownfield",
+    "owner": "Pacifica Development",
+    "lat": 38.23587358247485,
+    "lng": -122.63641327291062,
+    "property_tax": "$13,713.64",
+    "tax_to_city": "$1,508"
+  }
+]
