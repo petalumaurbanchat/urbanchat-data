@@ -1,0 +1,34 @@
+[
+  {
+    "id": "copeland",
+    "intensity": 0.1
+  },
+  {
+    "id": "haystack",
+    "intensity": 0.1
+  },
+  {
+    "id": "oyster_cove",
+    "intensity": 0.1
+  },
+  {
+    "id": "310_d",
+    "intensity": 0.1
+  },
+  {
+    "id": "0_lakeville",
+    "intensity": 0.1
+  },
+  {
+    "id": "petaluma_river_park",
+    "intensity": 0.1
+  },
+  {
+    "id": "bank_of_west",
+    "intensity": 0.1
+  },
+  {
+    "id": "fourth_and_sea",
+    "intensity": 0.1
+  }
+]
